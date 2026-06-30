@@ -1,0 +1,11 @@
+using GTA6
+
+public class GTA6 : MonoBehaviour
+
+  Public void GTA6()
+  {
+    Get Create map GTA6
+    Get Public online GTA6
+    Get game == 100%
+  }
+  
